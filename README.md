@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-Easy, fast, and cheap LLM serving for everyone
+Easy, 6666fast, and cheap LLM serving for everyone 666
 </h3>
 
 <p align="center">
